@@ -1,0 +1,14 @@
+
+{
+  "users": {
+    "telegram_id": {
+      "name": "string",
+      "streak": "number",
+      "tasks": [],
+      "stats": {
+        "study_hours": 0,
+        "completed_tasks": 0
+      }
+    }
+  }
+}
